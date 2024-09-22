@@ -1,0 +1,4 @@
+{"isWaveOver":false,"isWaveStarted":false,"totalEnemyInWave":0,"enemyInWave":[{"enemyTypeIndex":0,"numberOfEnemy":5,"spawnTimeMin":3.0,"spawnTimeMax":4.0}]}
+{"isWaveOver":false,"isWaveStarted":false,"totalEnemyInWave":0,"enemyInWave":[{"enemyTypeIndex":0,"numberOfEnemy":10,"spawnTimeMin":2.0,"spawnTimeMax":2.5}]}
+{"isWaveOver":false,"isWaveStarted":false,"totalEnemyInWave":0,"enemyInWave":[{"enemyTypeIndex":0,"numberOfEnemy":20,"spawnTimeMin":3.0,"spawnTimeMax":4.0},{"enemyTypeIndex":1,"numberOfEnemy":10,"spawnTimeMin":6.0,"spawnTimeMax":7.0}]}
+{"isWaveOver":false,"isWaveStarted":false,"totalEnemyInWave":0,"enemyInWave":[{"enemyTypeIndex":0,"numberOfEnemy":20,"spawnTimeMin":3.0,"spawnTimeMax":3.5},{"enemyTypeIndex":1,"numberOfEnemy":10,"spawnTimeMin":5.5,"spawnTimeMax":6.0},{"enemyTypeIndex":2,"numberOfEnemy":5,"spawnTimeMin":10.0,"spawnTimeMax":12.0}]}
